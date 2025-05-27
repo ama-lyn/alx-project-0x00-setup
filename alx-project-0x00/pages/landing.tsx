@@ -9,15 +9,15 @@ const Landing: React.FC = () => {
       <div className="flex space-x-2">
         <Button
           title="Small - rounded-sm"
-          className="text-sm px-2 py-1 rounded-sm"
+          styles="text-sm px-2 py-1 rounded-sm"
         />
         <Button
           title="Medium - rounded-md"
-          className="text-base px-4 py-2 rounded-md"
+          styles="text-base px-4 py-2 rounded-md"
         />
         <Button
           title="Large - rounded-full"
-          className="text-lg px-6 py-3 rounded-full"
+          styles="text-lg px-6 py-3 rounded-lg"
         />
       </div>
     </div>
