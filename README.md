@@ -2,6 +2,7 @@
 
 ## 📁 Folder Structure
 
+```
 alx-project-0x00/
 │
 ├── components/
@@ -43,3 +44,4 @@ alx-project-0x00/
 ├── package.json
 ├── postcss.config.mjs
 └── tsconfig.json
+```
